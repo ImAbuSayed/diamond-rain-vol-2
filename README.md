@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/diamond-rain-vol-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Diamond Rain, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/diamond-rain-vol-2/) |
+| **Get License** | [Music Rights & Licensing for Diamond Rain, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/diamond-rain-vol-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> ਕਾਲੀ ਰਾਤ ਚ ਤੇਰਾ ਪਰਛਾਵਾਂ looking so fine,
+> ਅੱਖਾਂ ਚ ਨਸ਼ਾ ਤੇਰਾ ਲੱਗਦਾ like sweet wine,
+> ਮੈਂ ਤੈਨੂੰ ਤੱਕਦਾ ਹਾਂ time stop ਕਰ ਕੇ,
+> ਦਿਲ ਮੇਰਾ ਧੜਕੇ ਆਜਾ cross the line.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
